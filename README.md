@@ -3,5 +3,5 @@
 
 # Solvers Are:
 - [Check Subsets](https://github.com/DarthLotia/ProblemSolvingPython/blob/main/Check%20Subset.py)
-- [Characters Counter](./Count Characters.py)
+- [Characters Counter](./Functions.py)
 
